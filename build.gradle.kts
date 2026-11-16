@@ -1,4 +1,4 @@
-﻿plugins { id("java"); id("application") }
+plugins { id("java"); id("application") }
 repositories { mavenCentral() }
 dependencies {
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
