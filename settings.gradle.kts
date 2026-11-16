@@ -1,1 +1,1 @@
-﻿rootProject.name = "br-gradle"
+rootProject.name = "br-gradle"
